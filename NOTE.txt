@@ -1,0 +1,5 @@
+- Dùng DK gắn với cảm biến ánh sáng. Để kiểm tra đèn còn ổn k.
+	+ Tín hiệu sẽ được gửi về UCA, ESP chuyển tiếp 
+	  và hiển thị lên LCD của BLYNK.
+	+ Phát triển: Quản lý nhiều thiết bị, nhiều phòng
+- ESP gắn vs RELAY để điều khiển đèn.
